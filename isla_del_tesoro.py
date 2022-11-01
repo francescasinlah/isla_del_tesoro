@@ -27,7 +27,7 @@ elif opciones=="moto":
                 print("Te quemas las manos")
             if opciones=="llave":
                 print("Abrir la puerta")
-                print("HAZ GANADO")
+                print("HAS GANADO")
             if opciones=="boton" or "botón":
                 print("Te devuelve a otro planeta. Te encuentras con monstruos de otro planeta 'GAME OVER'") 
                      
