@@ -10,8 +10,8 @@ if opciones=="carro":
     print("Te pasaste un semáforo en rojo y tuviste un accidente 'GAME OVER'")
 
 elif opciones=="moto":
-    tipo_vias=input("¿Ir por: vía principal o calles?")
-    if tipo_vias=="vía principal" or "via principal" or "via":
+    tipo_vias=input("¿Ir por: via o calles?")
+    if tipo_vias=="via":
         print("Te encuentras con una manifestación y un grupo de vándalos te pincha los neumáticos 'GAME OVER' ")
     elif tipo_vias=="calles":
         print("Tienes tres opciones, ¿cruzar el: puente, vórtice temporal ó portal?")   
